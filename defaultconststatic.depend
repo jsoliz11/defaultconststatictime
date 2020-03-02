@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1583107028 source:c:\users\soliz\desktop\objectop\defaultconststatic\main.cpp
+	<iostream>
+	"Time2.h"
+
+1583107213 source:c:\users\soliz\desktop\objectop\defaultconststatic\src\time2.cpp
+	"Time2.h"
+
+1583105298 c:\users\soliz\desktop\objectop\defaultconststatic\include\time2.h
+	<iostream>
+
